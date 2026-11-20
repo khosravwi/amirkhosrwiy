@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:50C8FF,100:7B2FF7&height=250&section=header&text=Amir%20Khosrwiy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Software%20Engineering%20Student&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:50C8FF,100:7B2FF7&height=250&section=header&text=Amir%20Khosravwi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Software%20Engineering%20Student&descAlignY=62&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50C8FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Amir+%F0%9F%91%8B;Flutter+Developer+%26+Dart+Enthusiast;Building+Beautiful+Mobile+Apps+%E2%9C%A8;Currently+Coding+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm **Amir Khosrwiy**, a passionate **Flutter Developer** and **Software Engineering** student.
+🎓 I'm **Amir Khosravwi**, a passionate **Flutter Developer** and **Software Engineering** student.
 
 💙 I'm deeply in love with **Dart & Flutter** and I build beautiful, high-performance mobile apps.
 
